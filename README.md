@@ -161,11 +161,11 @@ Focuses on the user’s ability to interact with the website:
 
 ## Test Execution Summary
 
-**Total Test Cases**: 92  
-**Passed**: 74  
-**Failed**: 18  
+**Total Test Cases**: 60  
+**Passed**: 55  
+**Failed**: 5  
 **Critical Bugs**: None  
-**Minor Bugs**: 24  
+**Minor Bugs**: 5  
 
 
 ## Recommendations  and Suggestions
