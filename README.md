@@ -1,5 +1,5 @@
 # Testing Casio-India A E-commerce Website Using Manual Testing, Selenium(POM) with cucumber.
-![]()
+![](https://github.com/PrajyotiSuryawanshi/Casio_India/blob/main/casihome.png)
 
 ## Introduction 
 The Tutorials Casio-India e-commerce platform offers a variety of features, including user registration, product browsing, cart management, and checkout. The testing focused on verifying the functionality, usability, and accessibility of these features across multiple devices and browsers.
